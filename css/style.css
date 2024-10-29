@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+   background-image: url('../images/1.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+}
+.index{
+   padding-bottom: 20px;
+}
+.cv{
+   padding-bottom: 71px;
+}
+.contact{
+   padding-bottom: 162px;
+}
+.nav{
+   background-color: blue;
+}
+.nav-link{
+   color: white;
+}
+img{
+   border: 10px solid blue;
+   margin-left: 510px;
+   margin-top: 65px;
+}
+.h3{
+   margin-left: 510px;
+}
+.h5{
+   margin-left: 520px;
+}
+.contact{
+   padding: 70px 400px 40px 400px;
+}
+form{
+   margin-bottom: 118px;
+}
+form input{
+   background-color: transparent;
+   border: none;
+   border-bottom: solid blue 4px;
+   /* margin-left: 20px; */
+
+}
+form textarea{
+   background-color: transparent;
+   border: none;
+   border-bottom: solid blue 4px;
+   /* margin-left: 20px; */
+}
+.contact_table{
+   border: none;
+   margin-left: 70px;
+}
+/* Hobbies */
+iframe{
+   margin-top: 30px;
+}
